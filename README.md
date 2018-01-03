@@ -1,1 +1,1 @@
-# edx_ms_node_m2
+## Module 2 Assignment Lab: REST API with Express
